@@ -1,0 +1,468 @@
+.mediaViewInfo {
+	--web-view-name: 대지 1;
+	--web-view-id: n_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1 {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 대지 1;
+	--web-view-id: n_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#n_1_g {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#container {
+	position: absolute;
+	width: 1920px;
+	height: 2179px;
+	left: 0px;
+	top: -8px;
+	overflow: visible;
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 1082px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header_box {
+	position: absolute;
+	width: 1920px;
+	height: 1082px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#navigation {
+	position: absolute;
+	width: 1924px;
+	height: 139.334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#nav1 {
+	position: absolute;
+	width: 431px;
+	height: 139.334px;
+	left: 1062px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_1 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Product {
+	left: 84.458px;
+	top: 30.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#nav2 {
+	position: absolute;
+	width: 431px;
+	height: 138.334px;
+	left: 200px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_2 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Main {
+	left: 83.458px;
+	top: 29.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#nav3 {
+	position: absolute;
+	width: 431px;
+	height: 139.334px;
+	left: 631px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_3 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Character {
+	left: 82.458px;
+	top: 30.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#nav4 {
+	position: absolute;
+	width: 431px;
+	height: 139.334px;
+	left: 1493px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_4 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Creator {
+	left: 90.458px;
+	top: 30.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#logo {
+	position: absolute;
+	width: 200px;
+	height: 123.911px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1__2 {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#CHILG {
+	left: 38.383px;
+	top: 19.755px;
+	position: absolute;
+	overflow: visible;
+	width: 120.618px;
+	height: 104.15599822998047px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.4px;
+}
+#footer {
+	position: absolute;
+	width: 1924px;
+	height: 320.871px;
+	left: 0px;
+	top: 1839.129px;
+	overflow: visible;
+}
+#footer_box {
+	position: absolute;
+	width: 1924px;
+	height: 320px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_18 {
+	position: absolute;
+	width: 609.493px;
+	height: 167.484px;
+	left: 198.965px;
+	top: 42.774px;
+	overflow: visible;
+}
+#RootCat {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 313.018px;
+	height: 130.6667022705078px;
+	text-align: left;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	color: rgba(229,229,229,1);
+	letter-spacing: -0.4px;
+}
+#Where_theres_a_will_theres_a_w {
+	left: 3px;
+	top: 72.975px;
+	position: absolute;
+	overflow: visible;
+	width: 607.493px;
+	height: 94.50890350341797px;
+	line-height: 30px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	color: rgba(229,229,229,1);
+	letter-spacing: -0.4px;
+}
+#n_2022_All_rights_reserved_by_ {
+	opacity: 0.4;
+	left: 28.965px;
+	top: 241.704px;
+	position: absolute;
+	overflow: visible;
+	width: 631.035px;
+	height: 79.16670227050781px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.4px;
+}
+#footer_icon {
+	position: absolute;
+	width: 175px;
+	height: 38px;
+	left: 1658px;
+	top: 42px;
+	overflow: visible;
+}
+#twitter {
+	position: absolute;
+	width: 36px;
+	height: 37px;
+	left: 139px;
+	top: 0px;
+	overflow: visible;
+}
+#insta {
+	position: absolute;
+	width: 36px;
+	height: 38px;
+	left: 70px;
+	top: 0px;
+	overflow: visible;
+}
+#email {
+	position: absolute;
+	width: 36px;
+	height: 37px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#moldeuleungeoji {
+	position: absolute;
+	width: 354px;
+	height: 354px;
+	left: 783px;
+	top: 437px;
+	overflow: visible;
+}
+#Chilg_Emoticons {
+	left: 566.786px;
+	top: 679.122px;
+	position: absolute;
+	overflow: visible;
+	width: 787.429px;
+	height: 156.6945037841797px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	color: rgba(37,38,38,1);
+	letter-spacing: -0.4px;
+}
+#n_______ {
+	left: 566.786px;
+	top: 835.817px;
+	position: absolute;
+	overflow: visible;
+	width: 787.429px;
+	height: 244.18310546875px;
+	line-height: 61px;
+	margin-top: -15.5px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30px;
+	color: rgba(37,38,38,1);
+	letter-spacing: -0.4px;
+}
+#naga {
+	position: absolute;
+	width: 512px;
+	height: 512px;
+	left: 112px;
+	top: 294px;
+	overflow: visible;
+}
+#bbung {
+	position: absolute;
+	width: 497px;
+	height: 497px;
+	left: 1353px;
+	top: 309px;
+	overflow: visible;
+}
+#zz {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 170px;
+	top: 1132px;
+	overflow: visible;
+}
+#hi {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 170px;
+	top: 1498px;
+	overflow: visible;
+}
+#yourfart {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 492px;
+	top: 1132px;
+	overflow: visible;
+}
+#molbon {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 492px;
+	top: 1498px;
+	overflow: visible;
+}
+#moldleun {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 814px;
+	top: 1498px;
+	overflow: visible;
+}
+#naga_bk {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 814px;
+	top: 1132px;
+	overflow: visible;
+}
+#letsgo {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 1136px;
+	top: 1498px;
+	overflow: visible;
+}
+#bbung_bm {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 1458px;
+	top: 1498px;
+	overflow: visible;
+}
+#jukeo {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 1136px;
+	top: 1132px;
+	overflow: visible;
+}
+#goodnight {
+	position: absolute;
+	width: 292px;
+	height: 292px;
+	left: 1458px;
+	top: 1132px;
+	overflow: visible;
+}
+
+a{
+	text-decoration: none;
+	color: inherit
+}

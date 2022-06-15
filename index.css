@@ -1,0 +1,612 @@
+.mediaViewInfo {
+	--web-view-name: 대지 1;
+	--web-view-id: n_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1 {
+	position: absolute;
+	width: 1920px;
+	height: 3240px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 대지 1;
+	--web-view-id: n_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#n_1_g {
+	position: absolute;
+	width: 1920px;
+	height: 3240px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#container {
+	position: absolute;
+	width: 1920px;
+	height: 3240px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 1082px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header_box {
+	position: absolute;
+	width: 1920px;
+	height: 1082px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header_img {
+	position: absolute;
+	width: 925px;
+	height: 948px;
+	left: 890px;
+	top: 134px;
+	overflow: visible;
+}
+#Rectangle {
+	position: absolute;
+	width: 746px;
+	height: 948px;
+	left: 126px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_m {
+	position: absolute;
+	width: 925px;
+	height: 913px;
+	left: 0px;
+	top: 3px;
+	overflow: visible;
+}
+#header_text {
+	position: absolute;
+	width: 818.429px;
+	height: 425.143px;
+	left: 170.143px;
+	top: 402.153px;
+	overflow: visible;
+}
+#Welcome_to_Chilg_World {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 787.429px;
+	height: 156.6945037841797px;
+	text-align: left;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	color: rgba(37,38,38,1);
+	letter-spacing: -0.4px;
+}
+#n_____________ {
+	left: 32px;
+	top: 180.96px;
+	position: absolute;
+	overflow: visible;
+	width: 787.429px;
+	height: 244.18310546875px;
+	line-height: 61px;
+	margin-top: -15.5px;
+	text-align: left;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30px;
+	color: rgba(37,38,38,1);
+	letter-spacing: -0.4px;
+}
+#footer {
+	position: absolute;
+	width: 1924px;
+	height: 320.871px;
+	left: 0px;
+	top: 2920px;
+	overflow: visible;
+}
+#footer_box {
+	position: absolute;
+	width: 1924px;
+	height: 320px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_18 {
+	position: absolute;
+	width: 609.493px;
+	height: 167.484px;
+	left: 198.965px;
+	top: 42.774px;
+	overflow: visible;
+}
+#RootCat {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 313.018px;
+	height: 130.6667022705078px;
+	text-align: left;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	color: rgba(229,229,229,1);
+	letter-spacing: -0.4px;
+}
+#Where_theres_a_will_theres_a_w {
+	left: 3px;
+	top: 72.975px;
+	position: absolute;
+	overflow: visible;
+	width: 607.493px;
+	height: 94.50890350341797px;
+	line-height: 30px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	color: rgba(229,229,229,1);
+	letter-spacing: -0.4px;
+}
+#n_2022_All_rights_reserved_by_ {
+	opacity: 0.4;
+	left: 28.965px;
+	top: 241.704px;
+	position: absolute;
+	overflow: visible;
+	width: 631.035px;
+	height: 79.16670227050781px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.4px;
+}
+#footer_icon {
+	position: absolute;
+	width: 175px;
+	height: 38px;
+	left: 1658px;
+	top: 42px;
+	overflow: visible;
+}
+#twitter {
+	position: absolute;
+	width: 36px;
+	height: 37px;
+	left: 139px;
+	top: 0px;
+	overflow: visible;
+}
+#insta {
+	position: absolute;
+	width: 36px;
+	height: 38px;
+	left: 70px;
+	top: 0px;
+	overflow: visible;
+}
+#email {
+	position: absolute;
+	width: 36px;
+	height: 37px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#contents_container {
+	position: absolute;
+	width: 1798px;
+	height: 1962.514px;
+	left: 64px;
+	top: 1130.24px;
+	overflow: visible;
+}
+#contents1 {
+	position: absolute;
+	width: 1721px;
+	height: 961.754px;
+	left: 0px;
+	top: 80.76px;
+	overflow: visible;
+}
+#n_14 {
+	position: absolute;
+	width: 1014px;
+	height: 934px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_9 {
+	position: absolute;
+	width: 1014px;
+	height: 629px;
+	left: 0px;
+	top: 99px;
+	overflow: visible;
+}
+#n_5 {
+	position: absolute;
+	width: 986px;
+	height: 934px;
+	left: 28px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_ {
+	position: absolute;
+	width: 986px;
+	height: 934px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_ba {
+	position: absolute;
+	width: 106px;
+	height: 114px;
+	left: 687px;
+	top: 337px;
+	overflow: visible;
+	-webkit-transition:width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+    transition:width 2s, height 2s, background-color 2s, transform 2s;
+}
+#n_6 {
+	position: absolute;
+	width: 630.035px;
+	height: 756px;
+	left: 1090.965px;
+	top: 205.754px;
+	overflow: visible;
+}
+#n_____________________________ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 631.035px;
+	height: 756px;
+	line-height: 45px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 35px;
+	color: rgba(59,59,59,1);
+	letter-spacing: -0.4px;
+}
+#baseline_chevron_right_black_4 {
+	position: absolute;
+	width: 15px;
+	height: 24px;
+	left: 612.035px;
+	top: 466.246px;
+	overflow: visible;
+}
+#contents2 {
+	position: absolute;
+	width: 1713px;
+	height: 1038.754px;
+	left: 85px;
+	top: 923.76px;
+	overflow: visible;
+}
+#n_17 {
+	position: absolute;
+	width: 956px;
+	height: 835px;
+	left: 757px;
+	top: 0px;
+	overflow: visible;
+}
+#imgbox2 {
+	position: absolute;
+	width: 927px;
+	height: 622px;
+	left: 29px;
+	top: 176px;
+	overflow: visible;
+}
+#n_16 {
+	position: absolute;
+	width: 951px;
+	height: 835px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#box2img_3 {
+	position: absolute;
+	width: 410px;
+	height: 463px;
+	left: 0px;
+	top: 197px;
+	overflow: visible;
+}
+#box2img_2 {
+	opacity: 0.569;
+	position: absolute;
+	width: 532px;
+	height: 637px;
+	left: 419px;
+	top: 0px;
+	overflow: visible;
+}
+#box2img_1 {
+	position: absolute;
+	width: 465px;
+	height: 514px;
+	left: 260px;
+	top: 321px;
+	overflow: visible;
+}
+#n_7 {
+	position: absolute;
+	width: 676px;
+	height: 756px;
+	left: 0px;
+	top: 282.754px;
+	overflow: visible;
+}
+#n____________________________ {
+	left: 45.965px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 631.035px;
+	height: 756px;
+	line-height: 45px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 35px;
+	color: rgba(59,59,59,1);
+	letter-spacing: -0.4px;
+}
+#baseline_chevron_right_black_4_bj {
+	position: absolute;
+	width: 15px;
+	height: 24px;
+	left: 0px;
+	top: 401.246px;
+	overflow: visible;
+}
+#scoll {
+	position: absolute;
+	width: 138px;
+	height: 75.962px;
+	left: 828px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1_bl {
+	fill: rgba(61,61,61,1);
+}
+.n_1_bl {
+	overflow: visible;
+	position: absolute;
+	width: 19.938px;
+	height: 17.344px;
+	left: 58.531px;
+	top: 42.416px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#scroll {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 75.96209716796875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	color: rgba(37,38,38,1);
+	letter-spacing: -0.4px;
+}
+#navigation {
+	position: absolute;
+	width: 1924px;
+	height: 139.334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#nav1 {
+	position: absolute;
+	width: 431px;
+	height: 139.334px;
+	left: 200px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_1 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Main {
+	left: 84.458px;
+	top: 30.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#nav2 {
+	position: absolute;
+	width: 431px;
+	height: 138.334px;
+	left: 631px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_2 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Character {
+	left: 83.458px;
+	top: 29.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#nav3 {
+	position: absolute;
+	width: 431px;
+	height: 139.334px;
+	left: 1062px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_3 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Product {
+	left: 82.458px;
+	top: 30.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#nav4 {
+	position: absolute;
+	width: 431px;
+	height: 139.334px;
+	left: 1493px;
+	top: 0px;
+	overflow: visible;
+}
+#topnavbox_4 {
+	position: absolute;
+	width: 431px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Creator {
+	left: 90.458px;
+	top: 30.355px;
+	position: absolute;
+	overflow: visible;
+	width: 272.337px;
+	height: 108.97869873046875px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	color: rgba(232,232,232,1);
+	letter-spacing: -0.4px;
+}
+#logo {
+	position: absolute;
+	width: 200px;
+	height: 123.911px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1__2 {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#CHILG {
+	left: 38.383px;
+	top: 19.755px;
+	position: absolute;
+	overflow: visible;
+	width: 120.618px;
+	height: 104.15599822998047px;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.4px;
+}
+
+a{
+	text-decoration: none;
+	color: inherit
+}
